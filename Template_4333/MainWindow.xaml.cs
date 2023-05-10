@@ -63,5 +63,12 @@ namespace Template_4333
             ibragimov.Show();
             this.Hide();
         }
+
+        private void _4333_Nizamov(object sender, RoutedEventArgs e)
+        {
+            var Amir = new _4333Nizamov();
+            Amir.Show();S
+            this.Hide();
+        }
     }
 }
