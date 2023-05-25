@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="_4333Nizamov" Height="450" Width="800">
     <Grid>
-        
+        <Button Content="Button" HorizontalAlignment="Left" Margin="309,194,0,0" VerticalAlignment="Top" Width="162" Height="63"/>
+        <Label Content="Низамов А.Р. 4333" HorizontalAlignment="Left" Margin="174,67,0,0" FontSize="50" VerticalAlignment="Top" Height="122" Width="454"/>
+
     </Grid>
 </Window>
